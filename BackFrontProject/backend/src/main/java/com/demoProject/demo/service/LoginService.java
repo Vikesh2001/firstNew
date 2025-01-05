@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import com.demoProject.demo.entiry.Company;
 import com.demoProject.demo.entiry.Login;
 import com.demoProject.demo.repository.LoginRepository;
 
